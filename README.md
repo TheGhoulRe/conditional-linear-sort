@@ -15,7 +15,7 @@ To execute this program, follow the below steps:
 2. `Cd` into the `conditional-linear-sort` folder.
 3. Run `node sorting.js`
 
-# algorithm
+# Algorithm
 
 This algorithm achieves sorting through the following steps:
 1. Create an empty JavaScript object ( you can use a hash map instead ).

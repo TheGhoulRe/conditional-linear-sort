@@ -1,7 +1,7 @@
 function sort(array=[]) {
   let allValues = {};
-  let maxValue = 0;
-  let minValue = 1000000;
+  let maxValue = Number.MIN_VALUE;
+  let minValue = Number.MAX_VALUE;
   let arrayLength = array.length;
   let result = [];
 
