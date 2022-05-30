@@ -8,7 +8,7 @@ The sorting algorithm is only linear in a number of conditions:
 
 # How to run
 
-This program doesn't need any dependencies to run, but you'll need to [Node JS](https://nodejs.org/en/) installed.
+This program doesn't need any dependencies to run, but you'll need [Node JS](https://nodejs.org/en/) installed.
 
 To execute this program, follow the below steps:
 1. Run `git clone https://github.com/TheGhoulRe/conditional-linear-sort.git`.
